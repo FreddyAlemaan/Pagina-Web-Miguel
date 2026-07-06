@@ -1,4 +1,4 @@
-# Bloon Paradise
+# Bloom Paradise
 
 Sitio web de presentación y ventas para **Bloon Paradise**, una tienda de arreglos florales y regalos artesanales ubicada en Madeira, Portugal. La página actúa como catálogo visual interactivo y canal directo de contacto con clientes a través de WhatsApp.
 
